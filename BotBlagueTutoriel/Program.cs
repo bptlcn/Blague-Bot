@@ -17,7 +17,7 @@ static class Program
     {
         var discord = new DiscordClient(new DiscordConfiguration()
         {
-            Token = "OTUyMTI0ODk2NjY0NzQ4MDY0.YixdaA.ZeqtCTHxdEn6OzU66fp_y2IkEfc",
+            Token = "Your Token !",
             TokenType = TokenType.Bot
         });
 
